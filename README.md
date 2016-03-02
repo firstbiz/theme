@@ -1,2 +1,2 @@
 # theme
-them of firstbiz.cc
+theme of firstbiz.cc
